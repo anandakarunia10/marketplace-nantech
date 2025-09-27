@@ -36,3 +36,4 @@ export const products = [
     description: "Mouse wireless dengan desain ergonomis dan baterai tahan lama.",
   },
 ];
+
