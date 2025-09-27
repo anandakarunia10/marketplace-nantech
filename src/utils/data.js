@@ -8,7 +8,7 @@ export const products = [
     category: "laptop",
     category_name: "Laptop",
     rating: 4.5,
-    img: "/public/images/laptop.png", // ✅ ambil dari public
+    img: "/images/laptop.png", // ✅ ambil dari public
     description: "Laptop ASUS dengan performa tinggi untuk kebutuhan harian dan gaming ringan.",
   },
   {
@@ -36,4 +36,5 @@ export const products = [
     description: "Mouse wireless dengan desain ergonomis dan baterai tahan lama.",
   },
 ];
+
 
